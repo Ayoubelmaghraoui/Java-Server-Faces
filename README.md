@@ -18,3 +18,5 @@ Java EE
 Java Persistence API (JPA) pour l'accès à la base de données
 MySQL 
 HTML, CSS 
+![1223](https://github.com/Ayoubelmaghraoui/Java-Server-Faces/assets/122055457/9c2c8910-2090-4207-acbf-5334c3647c0c)
+j'ai un erreur 
